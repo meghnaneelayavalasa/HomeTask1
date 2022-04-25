@@ -77,7 +77,7 @@ img{
     margin-top: 10px;
     margin-bottom: 10px;
     font-size: smaller;
-    width: 900px;
+    
 }
 .content{
     margin-left: 20px;
@@ -105,7 +105,7 @@ footer {
 }
 
 .flex-container .hr1{
-    width: 90%;
+    width: 100px;
     margin-left: 0;
     border-top: 1px solid lightgray;
 }
